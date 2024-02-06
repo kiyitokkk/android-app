@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/MD5.cpp.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/MD5.cpp",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/MD5.cpp"
+},
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/aes.c.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/aes.c",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/aes.c"
+},
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/hex_utils.c.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/hex_utils.c",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/hex_utils.c"
+},
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/tools.cpp.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/tools.cpp",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/tools.cpp"
+},
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/aes_utils.c.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/aes_utils.c",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/aes_utils.c"
+},
+{
+  "directory": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64",
+  "command": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android26 --gcc-toolchain=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot -DfooLib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -s -fPIC -o CMakeFiles/fooLib.dir/foo_tools.cpp.o -c /home/cxq/Downloads/毕设/job/app/src/main/cpp/foo_tools.cpp",
+  "file": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/foo_tools.cpp"
+}
+]

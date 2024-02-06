@@ -1,0 +1,7 @@
+Executable : /usr/bin/ninja
+arguments : 
+-C
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86_64
+fooLib
+jvmArgs : 
+

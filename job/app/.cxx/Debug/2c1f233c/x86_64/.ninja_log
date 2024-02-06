@@ -1,0 +1,10 @@
+# ninja log v5
+21	812	1694008555297566794	CMakeFiles/fooLib.dir/hex_utils.c.o	e125da047d5f1abf
+1	1581	1694008556069560541	CMakeFiles/fooLib.dir/aes.c.o	edde70918964d001
+55	2360	1694008556849554231	CMakeFiles/fooLib.dir/aes_utils.c.o	7e5516804bc6c38c
+29	2589	1694008557073552420	CMakeFiles/fooLib.dir/tools.cpp.o	44956a55aea40e3e
+67	3166	1694008557657547702	CMakeFiles/fooLib.dir/foo_tools.cpp.o	a679e16088f5a158
+1	3422	1694008557913545635	CMakeFiles/fooLib.dir/MD5.cpp.o	3d75aed8603b67cc
+3422	3532	1694008558029544698	/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c/obj/x86_64/libfooLib.so	dc72577c37c86c88
+5	2082	1700701723879274236	CMakeFiles/fooLib.dir/foo_tools.cpp.o	a679e16088f5a158
+2082	2252	1700701724043276515	/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c/obj/x86_64/libfooLib.so	dc72577c37c86c88

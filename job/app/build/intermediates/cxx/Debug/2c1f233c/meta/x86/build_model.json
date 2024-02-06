@@ -1,0 +1,166 @@
+{
+  "abi": "X86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86",
+  "soFolder": "/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c/obj/x86",
+  "soRepublishFolder": "/home/cxq/Downloads/毕设/job/app/build/intermediates/cmake/debug/obj/x86",
+  "abiPlatformVersion": 26,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "/home/cxq/Downloads/毕设/job/app/.cxx",
+      "intermediatesBaseFolder": "/home/cxq/Downloads/毕设/job/app/build/intermediates",
+      "intermediatesFolder": "/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/cxq/Downloads/毕设/job/app",
+      "moduleBuildFile": "/home/cxq/Downloads/毕设/job/app/build.gradle",
+      "makeFile": "/home/cxq/Downloads/毕设/job/app/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "/home/cxq/Android/Sdk/ndk/21.4.7075529",
+      "ndkVersion": "21.4.7075529",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 30,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "/home/cxq/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "/usr/bin/cmake",
+        "minimumCmakeVersion": "3.22.1"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/arm-linux-androideabi/libc++_shared.so",
+          "ARM64_V8A": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/aarch64-linux-android/libc++_shared.so",
+          "X86": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/i686-linux-android/libc++_shared.so",
+          "X86_64": "/home/cxq/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/lib/x86_64-linux-android/libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "/home/cxq/Downloads/毕设/job",
+        "sdkFolder": "/home/cxq/Android/Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "/usr/bin/ninja"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_static",
+    "optimizationTag": "Debug"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/prefab/x86",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "2c1f233c2z4zn22122c226jd4h2r1b4o5ns6d1y32s355w4u2g4pb6k1q16",
+  "configurationArguments": [
+    "-H/home/cxq/Downloads/毕设/job/app/src/main/cpp",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d26",
+    "-DANDROID_PLATFORM\u003dandroid-26",
+    "-DANDROID_ABI\u003dx86",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003dx86",
+    "-DANDROID_NDK\u003d/home/cxq/Android/Sdk/ndk/21.4.7075529",
+    "-DCMAKE_ANDROID_NDK\u003d/home/cxq/Android/Sdk/ndk/21.4.7075529",
+    "-DCMAKE_TOOLCHAIN_FILE\u003d/home/cxq/Android/Sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003d/usr/bin/ninja",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c/obj/x86",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c/obj/x86",
+    "-DCMAKE_BUILD_TYPE\u003dDebug",
+    "-B/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86",
+    "-GNinja"
+  ],
+  "intermediatesParentFolder": "/home/cxq/Downloads/毕设/job/app/build/intermediates/cxx/Debug/2c1f233c"
+}

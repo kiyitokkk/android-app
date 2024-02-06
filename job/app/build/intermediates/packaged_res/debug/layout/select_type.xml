@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFF"
+    android:orientation="vertical">
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#EEEEEE" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="1. 游戏开发"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="2. android"
+        android:textColor="#000" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFF"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:onClick="onOptionClicked"
+        android:padding="16dp"
+        android:text="3. ios"
+        android:textColor="#000" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="4. web"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="5. android安全"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="6. web安全"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:onClick="onOptionClicked"
+        android:text="7. ios安全"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="8. window安全"
+        android:onClick="onOptionClicked"
+        android:textColor="#000" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#EEEEEE" />
+
+
+
+</LinearLayout>

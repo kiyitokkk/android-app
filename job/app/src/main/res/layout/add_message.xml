@@ -1,0 +1,17 @@
+<!-- floating_layout.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="45dp"
+    tools:ignore="MissingDefaultResource"
+    android:gravity="center"
+    android:background="@drawable/circle_background"
+    android:layout_height="45dp">
+
+    <ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@android:id/icon"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+
+        android:src="@mipmap/add_message_3" />
+</RelativeLayout>
+

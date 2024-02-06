@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:text="确定要删除吗"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_height="35dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dp2"/>
+    <Button
+        android:id="@+id/delete_button"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:text="确认"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/out_button"
+        android:layout_width="match_parent"
+        android:background="@color/white"
+        android:text="返回"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/add_message.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/add_message.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/delete_dialog_layout.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/delete_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/custom_dialog.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/select_type.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/select_type.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_searchkey.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_searchkey.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/dialog_changename.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_changename.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/item_dialog.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_dialog.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_home.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/item_add_message.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_add_message.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/item_video.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_video.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/item_comment.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_comment.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_register.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_messages.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/edit_dialog_layout.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/edit_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_message_ref.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_message_ref.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_release.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_release.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/item_mycollect.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_mycollect.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/news_item_one.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/news_item_one.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_mycollect.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_mycollect.xml"
+    },
+    {
+        "merged": "com.example.job.app-mergeDebugResources-31:/layout/activity_loss.xml",
+        "source": "com.example.job.app-main-34:/layout/activity_loss.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/comment_item.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/comment_item.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/dialog_comment.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_comment.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_video.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_login.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/activity_loss.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_loss.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/your_floating_layout.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/your_floating_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_message_item.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_message_item.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_messagepos.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_messagepos.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_home.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/fragment_mine.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-mergeDebugResources-31:/layout/dialog_bottom.xml",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_bottom.xml"
+    }
+]

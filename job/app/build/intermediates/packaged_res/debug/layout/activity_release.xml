@@ -1,0 +1,99 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColorHint="@color/black"
+        android:textColor="@color/black"
+        android:hint="标题" />
+    <View
+        android:layout_width="match_parent"
+        android:background="@color/black"
+        android:layout_height="@dimen/dp1"/>
+
+
+
+
+
+    <ImageView
+        android:id="@+id/imageViewSelectedImage"
+        android:layout_marginTop="@dimen/dp_10"
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+
+    <Button
+        android:layout_marginTop="@dimen/dp_10"
+        android:id="@+id/videotype"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_login"
+        android:text="选择你的视频类型"
+        android:onClick="settype" />
+    <Button
+        android:layout_marginTop="@dimen/dp_10"
+        android:id="@+id/buttonChoosImg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/shape_login"
+        android:text="选择你的封面图片"
+        android:onClick="chooseImage" />
+    <Button
+        android:id="@+id/buttonChooseVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_login"
+
+        android:text="选择你的视频"
+        android:layout_marginTop="@dimen/dp5"
+
+        android:onClick="chooseVideo" />
+
+
+    <Button
+        android:id="@+id/buttonRecordVideo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="现在拍摄"
+        android:layout_marginTop="@dimen/dp5"
+        android:background="@drawable/shape_login"
+        android:onClick="recordVideo" />
+
+    <Button
+        android:id="@+id/buttonUpload"
+        android:layout_marginTop="@dimen/dp5"
+        android:background="@drawable/shape_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="上传"
+        android:onClick="uploadVideo"
+        android:enabled="false" />
+
+    <TextView
+        android:id="@+id/textViewVideoPath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:paddingTop="16dp" />
+    <TextView
+        android:id="@+id/textViewimgPath"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:paddingTop="16dp" />
+
+    <TextView
+        android:id="@+id/textViewResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:paddingTop="16dp" />
+
+</LinearLayout>

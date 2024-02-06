@@ -1,0 +1,3 @@
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/arm64-v8a/CMakeFiles/fooLib.dir
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/arm64-v8a/CMakeFiles/rebuild_cache.dir

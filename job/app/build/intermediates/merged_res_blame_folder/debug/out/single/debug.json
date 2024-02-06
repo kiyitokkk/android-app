@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_my_collect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/my_collect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_dialog_changename.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_changename.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_verity.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/verity.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_add_message_3.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/add_message_3.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_home_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_home_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tight.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tight.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_img.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/img.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_select_type.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/select_type.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_search_.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/search_.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_add_message.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/add_message.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_messagepos.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_messagepos.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_dialog_comment.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_comment.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_dialog_bottom.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/dialog_bottom.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_change_skin.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/change_skin.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_interview6.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/interview6.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_item_add_message.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_add_message.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_more_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_more_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_passwd.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/passwd.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_account.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/account.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_item_mycollect.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_mycollect.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_contact_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_contact_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_message_item.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_message_item.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_register.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_interview2.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/interview2.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_wallpaper.jpg.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/wallpaper.jpg"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_change_photo.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/change_photo.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_edit_dialog_layout.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/edit_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_video.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_video.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_speech_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_speech_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_message_ref.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_message_ref.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_release.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/release.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_home_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_home_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_your_floating_layout.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/your_floating_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_home.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_home_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/home_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_edit.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/edit.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_comment_item.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/comment_item.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_interview_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/interview_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_collect_selected.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/collect_selected.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_item_comment.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_comment.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_release_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/release_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_ic_dialog_tip_finish.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/ic_dialog_tip_finish.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_add.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/add.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_item_video.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_video.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_img.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/img.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_delete.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/delete.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_home_selected.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/home_selected.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_message_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/message_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_search_1.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/search_1.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_speech_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_speech_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_login_out.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/login_out.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_release.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_release.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_shape_register.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/shape_register.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_dianzan_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/dianzan_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_add_message2.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/add_message2.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_user.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/user.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_collect_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/collect_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_circle_background.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_mycollect.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_mycollect.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_more_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_more_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_dialog_bg_shape.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/dialog_bg_shape.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_comment.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/comment.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_header.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/header.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_loss.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_loss.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_messages.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_search.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/search.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_collect_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/collect_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_interview3.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/interview3.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_delete_dialog_layout.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/delete_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_news_item_one.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/news_item_one.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_item_dialog.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/item_dialog.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_pic7.jpg.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/pic7.jpg"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_home.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_home.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_custom_dialog.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_shape_search_box.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/shape_search_box.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_activity_searchkey.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/activity_searchkey.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_change_name.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/change_name.png"
+    },
+    {
+        "merged": "com.example.job.app-merged_res-32:/layout_activity_loss.xml.flat",
+        "source": "com.example.job.app-main-34:/layout/activity_loss.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_message.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/message.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_user_select.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/user_select.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/layout_fragment_mine.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_tab_contact_unselect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/tab_contact_unselect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_shape_login.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/shape_login.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_collect.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/collect.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/xml_backup_rules.xml.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_dianzan.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/dianzan.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/drawable_email.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/drawable/email.png"
+    },
+    {
+        "merged": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-merged_res-32:/mipmap-xxxhdpi_user.png.flat",
+        "source": "/home/cxq/.gradle/daemon/7.3.3/com.example.job.app-main-34:/mipmap-xxxhdpi/user.png"
+    }
+]

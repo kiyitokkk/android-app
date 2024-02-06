@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="dp1">1dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp11">11dp</dimen>
+    <dimen name="dp12">12dp</dimen>
+    <dimen name="dp13">13dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp16">16dp</dimen>
+    <dimen name="dp17">17dp</dimen>
+    <dimen name="dp18">18dp</dimen>
+    <dimen name="dp2">2dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp3">3dp</dimen>
+    <dimen name="dp5">5dp</dimen>
+    <dimen name="dp6">6dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+    <dimen name="dp9">9dp</dimen>
+    <dimen name="sp14">14sp</dimen>
+    <string name="_23_6_30_14_47">23/6/30 14:47</string>
+    <string name="account_hint">请输入用户名</string>
+    <string name="app_name">job</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">登录</string>
+    <string name="login_url">/app/login</string>
+    <string name="loginemail_hint">请输入邮箱</string>
+    <string name="loginemailverity_hint">请输入验证码</string>
+    <string name="loginpwd_hint">请输入密码</string>
+    <string name="register">注册</string>
+    <string name="registeracc_hint">请输入用户名</string>
+    <string name="registerpwd_hint">请输入密码</string>
+    <string name="sendmail">发送验证码</string>
+    <style name="CustomDialogPositiveButtonStyle" parent="Widget.AppCompat.Button">
+        
+        <item name="android:background">@drawable/shape_register</item>
+
+
+        
+    </style>
+    <style name="CustomDialogPositiveButtonStyle." parent="Widget.AppCompat.ButtonBar.AlertDialog">
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="Theme.Job" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="circleImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="roundedImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">15dp</item>
+    </style>
+    <style name="roundedImageStylecomment">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">42dp</item>
+    </style>
+</resources>

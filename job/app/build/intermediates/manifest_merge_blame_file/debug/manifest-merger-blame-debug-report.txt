@@ -1,0 +1,134 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.job"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:6:5-67
+11-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:7:5-64
+12-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:7:22-62
+13    <!-- 读写文件权限 -->
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:9:5-81
+14-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:9:22-78
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:10:5-80
+15-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:11:5-78
+16-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:11:22-75
+17    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+17-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:12:5-71
+17-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:12:22-68
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->[xyz.doikki.android.dkplayer:dkplayer-java:3.3.7] /home/cxq/.gradle/caches/transforms-3/5a2a165d98e43c49bf942e557dbdf481/transformed/jetified-dkplayer-java-3.3.7/AndroidManifest.xml:10:5-79
+18-->[xyz.doikki.android.dkplayer:dkplayer-java:3.3.7] /home/cxq/.gradle/caches/transforms-3/5a2a165d98e43c49bf942e557dbdf481/transformed/jetified-dkplayer-java-3.3.7/AndroidManifest.xml:10:22-76
+19
+20    <application
+20-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:14:5-59:19
+21        android:allowBackup="true"
+21-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:16:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.7.0] /home/cxq/.gradle/caches/transforms-3/c61287263f7ce0bc369b924eb1beec7d/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:17:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:18:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:19:9-43
+28        android:label="@string/app_name"
+28-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:20:9-41
+29        android:requestLegacyExternalStorage="true"
+29-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:15:9-52
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:21:9-54
+31        android:supportsRtl="true"
+31-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:22:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.AppCompat.NoActionBar"
+33-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:23:9-59
+34        android:usesCleartextTraffic="true" >
+34-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:25:9-44
+35        <activity
+35-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:27:9-31:40
+36            android:name="com.example.job.activity.HomeActivity"
+36-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:28:13-50
+37            android:configChanges="orientation|screenSize"
+37-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:30:13-59
+38            android:exported="false"
+38-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:31:13-37
+39            android:screenOrientation="locked" />
+39-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:29:13-47
+40        <activity
+40-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:32:9-36:40
+41            android:name="com.example.job.activity.LossActivity"
+41-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:33:13-50
+42            android:configChanges="orientation|screenSize"
+42-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:35:13-59
+43            android:exported="false"
+43-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:36:13-37
+44            android:screenOrientation="locked" />
+44-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:34:13-47
+45        <activity
+45-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:37:9-46:20
+46            android:name="com.example.job.MainActivity"
+46-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:38:13-41
+47            android:exported="true"
+47-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:39:13-36
+48            android:screenOrientation="locked" >
+48-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:40:13-47
+49            <intent-filter>
+49-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:41:13-45:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:42:17-69
+50-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:42:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:44:17-77
+52-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:44:27-74
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:47:9-49:50
+56            android:name="com.example.job.activity.LoginActivity"
+56-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:48:13-51
+57            android:screenOrientation="locked" />
+57-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:49:13-47
+58        <activity
+58-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:50:9-52:50
+59            android:name="com.example.job.activity.RegisterActivity"
+59-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:51:13-54
+60            android:screenOrientation="locked" />
+60-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:52:13-47
+61        <activity
+61-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:53:9-54:49
+62            android:name="com.example.job.activity.MycollectActivity"
+62-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:53:19-61
+63            android:screenOrientation="locked" />
+63-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:54:13-47
+64        <activity
+64-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:55:9-56:49
+65            android:name="com.example.job.activity.ReleaseActivity"
+65-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:55:19-59
+66            android:screenOrientation="locked" />
+66-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:56:13-47
+67        <activity
+67-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:57:9-58:49
+68            android:name="com.example.job.activity.SearchKeyActivity"
+68-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:57:19-61
+69            android:screenOrientation="locked" />
+69-->/home/cxq/Downloads/毕设/job/app/src/main/AndroidManifest.xml:58:13-47
+70    </application>
+71
+72</manifest>

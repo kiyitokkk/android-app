@@ -1,0 +1,3 @@
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86/CMakeFiles/fooLib.dir
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86/CMakeFiles/edit_cache.dir
+/home/cxq/Downloads/毕设/job/app/.cxx/Debug/2c1f233c/x86/CMakeFiles/rebuild_cache.dir

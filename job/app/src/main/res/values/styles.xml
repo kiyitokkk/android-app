@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+
+
+    <!-- 圆形图片 -->
+    <style name="circleImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- 圆角图片 -->
+    <style name="roundedImageStyle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">15dp</item>
+    </style>
+    <style name="roundedImageStylecomment">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">42dp</item>
+    </style>
+    <style name="CustomDialogPositiveButtonStyle" parent="Widget.AppCompat.Button">
+        <!-- 添加您想要的按钮样式属性 -->
+        <item name="android:background">@drawable/shape_register</item>
+
+
+        <!-- 其他按钮样式属性 -->
+    </style>
+    <style name="CustomDialogPositiveButtonStyle." parent="Widget.AppCompat.ButtonBar.AlertDialog">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+
+</resources>
